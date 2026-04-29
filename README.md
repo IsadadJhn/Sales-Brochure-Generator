@@ -216,5 +216,5 @@ response = client.chat.completions.create(
 
 ## Author
 **ISADAD JHN**
-GITHUB:
+GITHUB: https://github.com/IsadadJhn
 
