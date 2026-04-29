@@ -214,7 +214,8 @@ response = client.chat.completions.create(
 
 
 
-## Author
-**ISADAD JHN**
-GITHUB: https://github.com/IsadadJhn
+Author
+
+ISADAD JHN
+GitHub: https://github.com/username-kamu
 
