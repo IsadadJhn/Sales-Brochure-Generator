@@ -40,7 +40,7 @@ Project ini menunjukkan implementasi nyata dari:
 
 ---
 
-## Arsitektur Project
+## Project Architecture
 
 ```text id="u4eiyd"
 Input URL Website Perusahaan
@@ -58,7 +58,7 @@ Output Markdown
 
 ---
 
-## Instalasi
+## Instalation
 
 ### 1. Clone Repository
 
@@ -69,7 +69,7 @@ cd Sales-Brochure-Generator
 
 ---
 
-### 2. Buat Virtual Environment
+### 2. Make Virtual Environment
 
 ```bash id="rwz34n"
 python -m venv venv
@@ -121,7 +121,7 @@ OLLAMA_API_KEY=your_optional_key_here
 
 ---
 
-## Cara Menjalankan Project
+## How to run this project
 
 Jalankan Jupyter Notebook:
 
@@ -158,16 +158,6 @@ create_brochure_company(
 Fordive adalah perusahaan digital yang berfokus pada ...
 ...
 ```
-
----
-
-## Pengembangan Selanjutnya
-
-* Menggunakan smart chunking agar context lebih efisien
-* Menambahkan retry mechanism untuk JSON invalid
-* Support OpenAI / Gemini / Claude API
-* Export brosur ke PDF / DOCX
-* Menambahkan antarmuka web dengan Streamlit / Gradio
 
 ---
 
