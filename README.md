@@ -173,7 +173,7 @@ Fordive adalah perusahaan digital yang berfokus pada ...
 
 ## Support Cloud API (Opsional)
 
-Project ini dapat dengan mudah diubah untuk menggunakan API cloud seperti:
+This project can be easily changed to use Cloud API'S like:
 
 * OpenAI API
 * Google Gemini API
@@ -214,6 +214,7 @@ response = client.chat.completions.create(
 
 
 
-### Author
-GitHub: https://github.com/IsadadJhn
+### Contributions
+Contributions are welcome , if you'd like to improve , fork this repository 
+
 
