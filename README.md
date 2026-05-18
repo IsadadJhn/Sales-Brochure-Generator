@@ -18,7 +18,7 @@ Project ini menunjukkan implementasi nyata dari:
 
 ---
 
-## Fitur Utama
+## Features
 
 * Mengambil seluruh link dari website perusahaan
 * Memilih halaman relevan secara otomatis menggunakan AI (About, Careers, Company Info, dll)
