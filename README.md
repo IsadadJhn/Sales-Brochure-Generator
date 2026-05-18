@@ -63,8 +63,8 @@ Output Markdown
 ### 1. Clone Repository
 
 ```bash id="p9l7pw"
-git clone https://github.com/username/ai-sales-brochure-generator.git
-cd ai-sales-brochure-generator
+git clone https://github.com/IsadadJhn/Sales-Brochure-Generator
+cd Sales-Brochure-Generator
 ```
 
 ---
