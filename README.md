@@ -205,6 +205,7 @@ response = client.chat.completions.create(
 
 
 ### Contributions
-Contributions are welcome , if you'd like to improve , fork this repository 
+Contributions are welcome
+if you like m
 
 
